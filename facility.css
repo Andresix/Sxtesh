@@ -212,7 +212,7 @@ span {
         font-family: Centaur;
         font-style: normal;
         font-weight: normal;
-        font-size: 40px;
+        font-size: 30px;
         line-height: 57px;
         color: #FFFFFF;
         margin-top: 50px;
@@ -324,8 +324,12 @@ span {
         justify-content: center;
         padding-top: 20px;
         flex-wrap: wrap;
+        width: 100%;
     }
     .collapse {
         background-color: darkcyan;
     }
+    .navbar-inverse {
+    width: 100%;
+}
 }
