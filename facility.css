@@ -333,4 +333,7 @@ span {
     .container {
     width: 100%;
     }
-}
+    .container-2 .text-1 {
+        margin-bottom: 20px;
+    }
+   }
