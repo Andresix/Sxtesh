@@ -336,4 +336,8 @@ span {
     .container-2 .text-1 {
         margin-bottom: 20px;
     }
+    #text {
+        margin-bottom: 20px;
+        line-height: 24px;
+    }
    }
