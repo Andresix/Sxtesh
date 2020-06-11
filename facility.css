@@ -1,0 +1,331 @@
+.navbar-inverse {
+    background: rgba(23, 22, 20, 0.47);
+    height: 100px;
+    padding-right: 20px;
+}
+body {
+    background-color:  #031C29;
+}
+.navbar-brand {
+    font-family: Miss Fajardose;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 69px; 
+}
+.hover {
+    color: darkorange;
+}
+
+.container {
+    margin-left: 100px;
+    margin-right: 20px;
+}
+#brand {
+    color: #FFEEFF;
+}
+.navbar-right {
+    margin-top: 20px;
+}
+.facility {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 25px;
+    
+}
+#yellow {
+    color:#C9A96A;
+}
+.navbar-inverse .navbar-nav>li>a {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 25px;
+    color: #FEFEFE;
+    margin-left: 50px;
+}
+h1 {
+    font-family: Centaur;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 91px;
+    color: #C9A96A;
+    margin-left: 100px;
+}
+h2 {
+    font-family: Centaur;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 91px;
+    color:#ffffff;
+    margin-left: 100px;
+}
+.container-1 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 172.5%;
+    letter-spacing: 0.065em;
+    color: #FFFFFF;
+    text-align: left;
+    width: 500px;
+    margin-left: 100px;
+}
+.view {
+    font-family: Centaur;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 10px; 
+    text-align: center;
+}
+.container-2 {
+    display: flex;
+    height: 200px;
+    flex-wrap: nowrap;
+    margin-bottom: 200px;
+}
+.pic-1 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.text-1 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 172.5%;
+    letter-spacing: 0.065em;
+    color: #FFFFFF;
+    margin-right: 100px;
+}
+.container-3 {
+    display: flex;
+    flex-wrap: nowrap;
+}
+#an {
+    margin-top: 300px;
+    margin-bottom: 20px;
+}
+#the {
+    margin-left: 100px;
+}
+#second {
+    width: 1200px;
+}
+#there {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.container-4 {
+    display: flex;
+}
+#locate {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.container-5 .text-1 {
+    margin-left: 100px;
+    margin-top: 0.5em;
+}
+.container-6 .text-1 {
+    margin-top: 1em;
+}
+.container-7 {
+    display: flex;
+    background-color:  rgba(23, 22, 20, 0.47);
+    height: 100px;
+    margin-top: 200px;
+    justify-content: center;
+    padding-top: 50px;
+}
+a {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 20px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0.5em;
+}
+span {
+    color: #C8B92D;
+}
+.glyphicon {
+    color: #FFFFFF;
+}
+@media only screen and (max-width: 900px) {
+    .wrapper {
+        width: 100%;
+    }
+    h1 {
+        font-family: Centaur;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 60px;
+        line-height: 60px;
+        color: #C9A96A;
+        margin-left: 20px;
+    }
+    .container {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    h2 {
+        font-family: Centaur;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 60px;
+        line-height: 60px;
+        color:#ffffff;
+        margin-left: 20px;
+        width: 100%;
+    }
+    .container-1 {
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 15px;
+        line-height: 20px;
+        letter-spacing: 0.065em;
+        color: #FFFFFF;
+        text-align: left;
+        width: 100%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .view {
+        font-family: Centaur;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 50px;
+        line-height: 57px;
+        color: #FFFFFF;
+        margin-top: 50px;
+        margin-bottom: 10px; 
+        text-align: center;
+        width:100%;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .container-2 {
+        display: flex;
+        height: 300px;
+        flex-wrap: wrap;
+        margin-bottom: 200px;
+    }
+    .pic-1 {
+        margin-left: 20px;
+        margin-right: 20px;
+        width:100%;
+    }
+    #rc-13 {
+        height:300px;
+        width:100%;
+    }
+    .text-1 {
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 17px;
+        line-height: 172.5%;
+        letter-spacing: 0.065em;
+        color: #FFFFFF;
+        margin-right: 20px;
+        margin-left: 20px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .container-3 {
+        display: flex;
+        flex-wrap:wrap;
+    }
+    #an {
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    #rc-14 {
+        height:300px;
+        width:100%;
+        margin-bottom: 0px;
+    }
+    #rc-19 {
+        height:300px;
+        width:100%;
+        margin-top: 10px;
+    }
+    #the {
+        width: 100%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    #second {
+        width: 100%;
+        height:300px;
+    }
+    #there {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .container-4 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .container-4 .pic-1 img {
+        height:300px;
+        width:100%;
+        margin-top: 10px;
+    }
+    #locate {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .grid {
+        display:block;
+    }
+    .container-5 .pic-1 img {
+        height:300px;
+        width:100%;
+        /* margin-left: 20px; */
+        margin-right: 20px;
+    }
+    .container-5 .text-1 {
+        margin-left: 20px;
+        width: 100%;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .container-6 .pic-1 img {
+        height:300px;
+        width:100%;
+        margin-top: 20px;
+        margin-right: 20px;
+        /* margin-left: 20px; */
+    }
+    .container-7 {
+        display: flex;
+        background-color:  rgba(23, 22, 20, 0.47);
+        height: 100px;
+        margin-top: 200px;
+        justify-content: center;
+        padding-top: 50px;
+        flex-wrap: wrap;
+    }
+    .collapse {
+        background-color: darkcyan;
+    }
+}
