@@ -212,7 +212,7 @@ span {
         font-family: Centaur;
         font-style: normal;
         font-weight: normal;
-        font-size: 30px;
+        font-size: 40px;
         line-height: 57px;
         color: #FFFFFF;
         margin-top: 50px;
@@ -249,6 +249,7 @@ span {
         margin-left: 20px;
         width: 100%;
         margin-top: 10px;
+        margin-bottom: 20px:
     }
     .container-3 {
         display: flex;
@@ -320,7 +321,7 @@ span {
         display: flex;
         background-color:  rgba(23, 22, 20, 0.47);
         height: 100px;
-        margin-top: 200px;
+        margin-top: 150px;
         justify-content: center;
         padding-top: 20px;
         flex-wrap: wrap;
@@ -329,7 +330,7 @@ span {
     .collapse {
         background-color: darkcyan;
     }
-    .navbar-inverse {
+    .container {
     width: 100%;
-}
+    }
 }
