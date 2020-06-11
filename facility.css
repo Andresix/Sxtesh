@@ -242,7 +242,7 @@ span {
         font-style: normal;
         font-weight: 200;
         font-size: 17px;
-        line-height: 172.5%;
+        line-height: 162.5%;
         letter-spacing: 0.065em;
         color: #FFFFFF;
         margin-right: 20px;
@@ -320,7 +320,7 @@ span {
     .container-7 {
         display: flex;
         background-color:  rgba(23, 22, 20, 0.47);
-        height: 100px;
+        height: 200px;
         margin-top: 150px;
         justify-content: center;
         padding-top: 20px;
